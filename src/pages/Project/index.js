@@ -195,7 +195,7 @@ const Project = () => {
                       <a
                         target="_blank"
                         className="flex flex-row items-center p-2 w-1/2"
-                        href="https://github.com/shivamchaudhary837/ecommerce-shopping"
+                        href="https://github.com/shivamchaudhary837/eccomm-shopping"
                         rel="noreferrer"
                       >
                         Code

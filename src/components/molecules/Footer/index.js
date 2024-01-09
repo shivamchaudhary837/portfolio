@@ -43,11 +43,11 @@ const Footer = () => {
           <p>
             Developed by{" "}
             <a
-              href="https://linkedin.com/in/gilberthutapea"
+              href="https://www.linkedin.com/in/shivamchaudhary837/"
               className="text-primary hover:underline"
               target="blank"
             >
-             ~ Harshita Prajapati
+             ~ Shivam Chaudhary
             </a>
           </p>
         </div>

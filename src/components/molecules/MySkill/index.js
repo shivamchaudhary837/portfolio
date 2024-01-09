@@ -2,6 +2,7 @@ import React from "react";
 import Lottie from "react-lottie";
 import skillsimg from "../../../assets/img2.png";
 
+
 import {
   FaHtml5,
   FaCss3Alt,
@@ -57,9 +58,11 @@ const MySkill = () => {
   };
   return (
     <div className="pt-24">
+   
       <h1 className="text-4xl font-semibold drop-shadow-md text-center mb-8">
         My <span className="text-primary">Skills</span>
       </h1>
+      
       <div className="flex flex-col md:flex-row items-center justify-evenly my-8">
 
         <div>

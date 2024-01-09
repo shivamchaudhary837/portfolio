@@ -39,7 +39,9 @@ const Education = () => {
             <p className="text-sm text-neutral text-justify">
 
 
-            I completed my Bachelor's degree in Electronics & Communication Engineering from Rajiv gandhi proudyogiki vishwavidyalaya University in Bhopal, M.P, with a CGPA of 9.1.            </p>
+            I completed my Bachelor's degree in Information Technology from Rajiv 
+            gandhi proudyogiki vishwavidyalaya University in Bhopal, M.P, with a CGPA of 8.95.           
+             </p>
           </div>
 
           
@@ -52,7 +54,7 @@ const Education = () => {
             </div>
             <p className="text-sm text-neutral text-justify">
               I have passed the Secondary School Certificate with the
-              highest result <b>% - 82</b>
+              highest result <b>% - 89</b>
             </p>
           </div>
         </div>

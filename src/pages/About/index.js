@@ -73,7 +73,9 @@ const About = () => {
             </div>
             <p className="text-neutral font-medium text-center translate-y-[-30%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
             As a Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS, 
-            JavaScript, React, Angular, Tailwind, and SCSS. I excel in designing and maintaining responsive websites that offer a smooth user experience. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.
+            JavaScript, React, Angular, Tailwind, and SCSS. I excel in designing and maintaining
+             responsive websites that offer a smooth user experience. My expertise lies in crafting 
+             dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques. I am also a team player who thrives in collaborating with cross-functional teams to produce outstanding web applications.
               
             </p>
             <br />

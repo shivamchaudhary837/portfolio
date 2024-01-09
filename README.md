@@ -1,7 +1,8 @@
-<h1 align ="center" >Harshita Prajapati | Portfolio</h1>
+<h1 align ="center" >Shivam Chaudhary | Portfolio</h1>
 
 <h5  align ="center"> 
-Dedicated Front-end developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> <a href="https://drive.google.com/file/d/1DUlrQ7fD4bbuDFtMEmF0b9LqbnOuDfOx/view?usp=drivesdk">Resume 💼</a> </h5>
+Dedicated Front-end developer. Capable to solve working problems. Passionate about learning & development to reach the target. Eager to tackle more complex problems and continue to find ways to maximize user efficiency. My next mission is how to become a Mern stack Developer. I would love to build some Giant Website which will shine myself. <br/> 
+<a href="https://drive.google.com/file/d/12BjyGmy8suPJ0nfHkTmqkppTE0hQeM_u/view">Resume 💼</a> </h5>
 <br/>
 
  

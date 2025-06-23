@@ -8,7 +8,7 @@ import Lottie from "react-lottie";
 import coding from "../../../assets/coding.json";
 import "../../../pages/shared/Shared.css";
 import { SecondaryBtn } from "../../../components";
-import image1 from "../../../assets/shivam_dp.png";
+import image1 from "../../../assets/MY_PIC.jpeg";
 import handimg from "../../../assets/wave_hand.png";
 
 
@@ -52,7 +52,7 @@ const Banner = () => {
 
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
           <a
-            href="https://drive.google.com/file/d/12BjyGmy8suPJ0nfHkTmqkppTE0hQeM_u/view"
+            href="https://drive.google.com/file/d/1J7_XcSa2mVG9Mj_oMncV8ynViHAFmUVF/view"
             target="blank"
           >
             <button className="primary-button">

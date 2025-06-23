@@ -88,7 +88,7 @@ const About = () => {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-12 gap-y-4 mt-4 text-center translate-y-[-50%] sm:translate-y-[-0%] sm:mb-2 md:text-left ">
               
               <a
-                href="https://drive.google.com/file/d/12BjyGmy8suPJ0nfHkTmqkppTE0hQeM_u/view"
+                href="https://drive.google.com/file/d/1J7_XcSa2mVG9Mj_oMncV8ynViHAFmUVF/view"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">

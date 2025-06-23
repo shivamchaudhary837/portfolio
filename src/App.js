@@ -1,8 +1,6 @@
 import { Route, Routes, useLocation, Navigate } from "react-router-dom";
 import React, { Suspense } from "react";
-import { NotFound, Loader, ScrollToTop, ProjectDetails, Navbar, Footer, 
-  BlogDetail, BlogIndex, MernBlogRepair, EmployeeSalaryManagementRepair } from "./components";
-import Blog from "./pages/Blog";
+import { NotFound, Loader, ScrollToTop, ProjectDetails, Navbar, Footer, MernBlogRepair, EmployeeSalaryManagementRepair } from "./components";
 import Contact from "./pages/Contact";
 import About from "./pages/About";
 import MySkill from "./components/molecules/MySkill";
